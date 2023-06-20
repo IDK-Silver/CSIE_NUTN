@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/App.dir/Q3.o -o App 

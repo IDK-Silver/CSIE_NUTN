@@ -1,0 +1,3 @@
+/home/idk/code/University/Week_12/practice/build/CMakeFiles/rebuild_cache.dir
+/home/idk/code/University/Week_12/practice/build/CMakeFiles/edit_cache.dir
+/home/idk/code/University/Week_12/practice/build/CMakeFiles/App.dir
